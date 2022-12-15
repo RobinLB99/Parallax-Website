@@ -46,7 +46,7 @@ body, html {
       130deg,
       rgba(255, 255, 255, 0.3),
       rgba(128, 128, 128, 0.3)
-    ), url("../Img/Fondos/image1.jpg");
+    ), url("../Img/image1.jpg");
 }
 
 .i2 {
@@ -54,7 +54,7 @@ body, html {
         130deg,
         rgba(255, 255, 255, 0.3),
         rgba(128, 128, 128, 0.3)
-    ), url('../Img/Fondos/image2.jpg');
+    ), url('../Img/image2.jpg');
 }
 
 .i3 {
@@ -62,7 +62,7 @@ body, html {
         130deg,
         rgba(255, 255, 255, 0.3),
         rgba(128, 128, 128, 0.3)
-    ), url('../Img/Fondos/image3.jpg');
+    ), url('../Img/image3.jpg');
 }
 
 .text-image {
